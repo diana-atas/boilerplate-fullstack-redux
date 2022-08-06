@@ -17,6 +17,7 @@ You can find the server running on [http://localhost:3000](http://localhost:3000
 This repo includes:
 
 * a single, simple API endpoint (`/api/v1/fruits`)
+* API with CORS restrictions (serverside proxy required)
 * a single React component (`<App />`)
 * an example database module (`server/db/fruits.js`)
 * an API client module (`client/apis/fruits.js`)
